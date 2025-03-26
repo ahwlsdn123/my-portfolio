@@ -4,10 +4,6 @@
 
 layout: home
 ---
----
-title: "My Portfolio"
-layout: default
----
 
 # ![Profile Picture](assets/profile.jpg)
 
