@@ -47,7 +47,7 @@ main {
  * Images
  */
 img {
-  max-width: 50%;
+  max-width: 100%;
   vertical-align: middle;
 }
 
@@ -646,7 +646,7 @@ table td {
   color: #099;
 }
 
-img.profile-pic {
+.profile-pic {
   width: 150px;  /* 원하는 크기로 조절 */
   height: auto;
   border-radius: 50%; /* 동그랗게 만들고 싶다면 추가 */
