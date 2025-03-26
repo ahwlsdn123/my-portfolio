@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# ![Profile Picture](_site/assets/profile.jpg)
+# ![Profile Picture](assets/profile.jpg)
 
 ## About Me
 Hello! I am a Computer Science and Engineering student at Seoul National University, passionate about deep learning, software development, and game programming.
