@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="{{ '/assets/profile.JPG' | relative_url }}" class="profile-pic" alt="Profile Picture">
+<img src="{{ '/assets/profile.jpeg' | relative_url }}" class="profile-pic" alt="Profile Picture">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
 
 
