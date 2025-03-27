@@ -10,7 +10,7 @@ layout: home
 <h1 class="profile-name">Jinwoo Mo</h1>
 
 ## About Me
-Hello! I am a Computer Science and Engineering student at Seoul National University, passionate about deep learning, software development, and game programming.
+Hello! I am a Computer Science and Engineering student at Seoul National University, passionate about deep learning, computer vision, and software development.
 
 ## Education
 - **Seoul National University**  
