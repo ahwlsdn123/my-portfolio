@@ -32,7 +32,3 @@ Hello! I am a Computer Science and Engineering student at Seoul National Univers
 ## Skills
 - **Languages:** English (Intermediate), Korean (Fluent)
 - **Programming Languages:** Python, Java, C, C++
-
----
-
-This portfolio page is built using Jekyll and hosted on GitHub Pages.
