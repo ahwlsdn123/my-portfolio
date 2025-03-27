@@ -6,6 +6,8 @@ layout: home
 ---
 
 <img src="{{ '/assets/profile.JPG' | relative_url }}" class="profile-pic" alt="Profile Picture">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+
 
 ## About Me
 Hello! I am a Computer Science and Engineering student at Seoul National University, passionate about deep learning, software development, and game programming.
