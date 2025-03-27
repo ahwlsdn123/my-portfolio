@@ -24,6 +24,8 @@ baseurl: "/my-portfolio" # the subpath of your site, e.g. /blog
 url: "https://ahwlsdn123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ahwlsdn123
 github_username:  ahwlsdn123
+social_links:
+  linkedin: "https://www.linkedin.com/in/jinwoo-mo-08749a272/"
 
 # Build settings
 theme: minima
