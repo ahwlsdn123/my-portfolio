@@ -33,6 +33,8 @@ github_username:  ahwlsdn123
 theme: minima
 plugins:
   - jekyll-feed
+include:
+  - assets
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,8 +44,6 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-include:
-  - assets
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
