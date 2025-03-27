@@ -22,12 +22,11 @@ Hello! I am a Computer Science and Engineering student at Seoul National Univers
   - Focused on resolving bottlenecks occurring in TensorBoard usage.
 
 ## Projects
-- <a href="https://www.youtube.com/watch?v=eCZ1SdGqn-I" target="_blank">**Hallux Valgus Diagnosis Program**</a>
- *(University Team Project)*  
+- <a href="https://www.youtube.com/watch?v=eCZ1SdGqn-I" target="_blank">**Hallux Valgus Diagnosis Program**</a> *(University Team Project)*  
   - Developed a diagnosis tool for hallux valgus using a U-Net architecture.
   - The project was requested by **INFINITT Healthcare**, a leading provider of medical imaging solutions in South Korea.
 
-- **Tail by Tail** *(University Team Project)*  
+- <a href="https://github.com/ahwlsdn123/team-project-for-2024-fall-swpp-team-19" target="_blank">**Tail by Tail**</a> *(University Team Project)*  
   - Designed and implemented a multiplayer chase game using Unity, featuring a tail-tagging format where players chase and try to tag each other.
 
 ## Skills
