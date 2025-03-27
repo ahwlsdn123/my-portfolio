@@ -7,7 +7,7 @@ layout: home
 
 <img src="{{ '/assets/profile.jpeg' | relative_url }}" class="profile-pic" alt="Profile Picture">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
-
+<h1 class="profile-name">Jinwoo Mo</h1>
 
 Hello! I am a Computer Science and Engineering student at Seoul National University, passionate about deep learning, software development, and game programming.
 

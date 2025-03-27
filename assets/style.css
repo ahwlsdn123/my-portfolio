@@ -5,3 +5,10 @@ img.profile-pic {
   display: block;
   margin: 20px auto; /* 가운데 정렬 */
 }
+
+.profile-name {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
