@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    
-    <!-- 스타일 연결 -->
+
+    <!-- 기존 Jekyll 스타일 추가 -->
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}"> <!-- 기존 테마 스타일 -->
 </head>
 <body>
     <header>
@@ -14,7 +15,7 @@
     </header>
     
     <main>
-        {{ content }}  <!-- 여기서 각 페이지 내용이 들어감 -->
+        {{ content }}  <!-- 페이지 내용 삽입 -->
     </main>
 </body>
 </html>
