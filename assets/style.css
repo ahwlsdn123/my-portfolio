@@ -1,0 +1,7 @@
+img.profile-pic {
+  width: 150px;  /* 원하는 크기로 조절 */
+  height: auto;
+  border-radius: 50%; /* 둥근 프로필 이미지 */
+  display: block;
+  margin: 20px auto; /* 가운데 정렬 */
+}
