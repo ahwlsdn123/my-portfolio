@@ -9,6 +9,7 @@ layout: home
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
 <h1 class="profile-name">Jinwoo Mo</h1>
 
+## About Me
 Hello! I am a Computer Science and Engineering student at Seoul National University, passionate about deep learning, software development, and game programming.
 
 ## Education
